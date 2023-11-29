@@ -1,2 +1,1 @@
-# WPFControl
-Custom WPF control library
+# C#实现的一些滤波算法
